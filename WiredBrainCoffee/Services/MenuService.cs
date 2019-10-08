@@ -14,6 +14,22 @@ namespace WiredBrainCoffee.Services
             {
                 new MenuItem()
                 {
+                    Name = "Plain Old Coffee!",
+                    Summary = "How about everones favourite? A good hot strong cup of coffee!",
+                    Description = "You make think that I have nothing to say about this but you would be wrong." +
+                    " This is all I have to say about this subject.",
+                    ImageFile = "coffeeLogo.jpg"
+                },
+                new MenuItem()
+                {
+                    Name = "Coffee Cup!",
+                    Summary = "How about everones favourite? A good hot strong cup of coffee!",
+                    Description = "You make think that I have nothing to say about this but you would be wrong." +
+                    " This is all I have to say about this subject.",
+                    ImageFile = "coffeeCup.jpg"
+                },
+                new MenuItem()
+                {
                     Name = "Frosted Pumpkin Bread",
                     Summary = "A seasonal delight we offer every autumn.  Pumpking bread with just a bit of spice, cream cheese frosting with just a hint of home.",
                     Description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, tenetur natus doloremque laborum quos iste ipsum rerum obcaecati impedit odit illo dolorum ab tempora nihil dicta earum fugiat. Temporibus, voluptatibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, tenetur natus doloremque laborum quos iste ipsum rerum obcaecati impedit odit illo dolorum ab tempora nihil dicta earum fugiat. Temporibus, voluptatibus.",
